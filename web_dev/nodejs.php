@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Node Js</title>
+
+  <!-- -----font awesome cdn link----- -->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  <!-- ----link css file----- -->
+
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/web_dev.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <header>
+      <a href="../index.php" class="logo">KyU<span> Virtual Campus</span></a>
+      <div id="menu" class="fas fa-bars"></div>
+
+      <nav class="navbar">
+        <a href="../index.php">Home</a>
+        <a href="../onlineide/onlineide.php">Online IDE</a>
+        <a href="../programming/programming.php">Programming</a>
+        <a href="../app_dev/app_dev.php">App-dev</a>
+        <a href="../web_dev/web_dev.php">Web-dev</a>
+        <a href="../courses.php">Courses</a>
+        <a href="../about.php">About</a>
+      </nav>
+    </header>
+
+
+    <!-----------------------add Node JS----------------------- -->
+
+
+    <div class="python">
+      <h1 class="heading">Node JS tutorials</h1>
+      <div class="tube">
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/qwfE7fSVaZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node.js / Express Course - Build 4 Projects</h2>
+          <h3>freeCodeCamp.org</h3>
+          <p>
+            Node.js and Express.js are popular technologies used for JavaScript backend web development.
+            In this course, you will improve your skills by building four projects using Node and Express.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/JnvKXcSI7yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+     clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners</h2>
+          <h3> Edureka </h3>
+          <p>
+            This Edureka Node.js Full Course video will help you in learn Node.js.This Node.js Tutorial for Beginners is ideal
+            for both beginners as well as professionals who want to master the most prominently used javascript backend framework.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/f2EqECiTBL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</h2>
+          <h3>Dave Gray</h3>
+          <p>
+            This Node.js Full Course for Beginners complete course full of nearly 7 hours of Node JS code and instruction to level up
+            your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/vJEO57B05Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node JS Tutorial | Crash Course </h2>
+          <h3>Telusko</h3>
+          <p>
+            This Node.js Full Course for Beginners is an all-in-one beginner tutorial. I will try to explain many important topic.
+            What is Node JS?,Node Js Installation,Getting Started with Node JS,How Node JS Works?,What is NPM?,Modules in Node JS.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/RLtyhwFtXQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Learn Node.js - Full Tutorial for Beginners </h2>
+          <h3>freeCodeCamp.org </h3>
+          <p>
+            I will try to explain many important topic. Node.js is an open-source, cross-platform JavaScript run-time
+            environment that executes JavaScript code outside of a browser.
+
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/TlB_eWDSMt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node.js Tutorial for Beginners: Learn Node in 1 Hour </h2>
+          <h3> Programming with Mosh</h3>
+          <p>
+            In this video I will try to explain many important topic. Installing Node,Your First Node Program ,Node Module System,
+            Global Object, Modules ,Creating a Module ,Loading a Module ,Module Wrapper Function,etc.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/VrQgmNY96wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node js complete tutorial in Hindi - Full Node course in one video </h2>
+          <h3> Code Step By Step</h3>
+          <p>
+            React js full tutorial in Hindi and React.Js complete course in one video by anil side. This is a node js complete series
+            in one video in Hindi Langauge.This topic is covered-Fundaments of node js,Core module in Node js,How Node js Works,etc.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/TwKDW--CgR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node JS Hindi Complete Crash Course | Authentication | Idea Board Full Stack Project</h2>
+          <h3>Desi Programmer</h3>
+          <p>
+            Welcome to this complete node JS Express JS MongoDB, Ejs tutorial in Hindi.I will try to explain many important topic.
+            This topic will be covered in this video- Understanding Node JS History,A Program,Running Custom Scripts,More about Node
+            JS Code,etc.
+
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/BLl32FvcdVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node Js Tutorial in Hindi</h2>
+          <h3>CodeWithHarry</h3>
+          <p>
+            This node js tutorial in Hindi will cover everything you will ever need to learn about Node. We will see topics like node
+            js fs module, os module, Common JS vs ES6 modules, HTTP server, express framework, deployment of NodeJS site.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/wdBCoRMMxto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node Js in Hindi in 2020 ( crash course ) </h2>
+          <h3>Coder's Gyan</h3>
+          <p>
+            This video will be like Node Js crash course.I was explain same real life projects. we will be exploring how Node Js Event
+            Emitter works, How to create a server in Node Js, How to handle routes and many other things.
+          </p>
+        </div>
+
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ipnWAKoiBtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node.JS in One Video in Hindi with One Mini Project 2019 </h2>
+          <h3>Thapa Technical </h3>
+          <p>
+            Welcome, NodeJS for Beginners in Hindi. Node JS in Hindi in One video with One Mini Project 2019.I will try to
+            explain many important topic.What si Node js and course Introduction,Basic theory of node js,How Node js Works,etc.
+          </p>
+        </div>
+
+        <div class="video">Welcome, NodeJS for Beginners in Hindi. Node JS in Hindi in One video with One Mini Project 2019
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/o3sAZFveLW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>Node Js Tutorial in one video | Master Node JS in one video in Hindi </h2>
+          <h3> Learn Code With Durgesh</h3>
+          <p>
+            In this video we are going to learn node js in one single video.This Node.js Full Course for Beginners is an all-in-one
+            beginner tutorial.Node Js Tutorial in one video. I will try to explain many important topic.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <!-- -----------footer section------------ -->
+
+
+    <section class="footer">
+
+      <div class="box-container">
+        <div class="box">
+          <h3>about</h3>
+          <p>This is a website where students can learn web development, app development & different programming languages through tutorials videos.
+            And student can also run their program using our website through Online IDE.This is free learning website.</p>
+        </div>
+
+        <div class="box">
+          <h3>quick links</h3>
+          <a href="../index.php">Home</a>
+          <a href="../onlineide/onlineide.php">Online IDE</a>
+          <a href="../programming/programming.php">Programming</a>
+          <a href="../app_dev/app_dev.php">App-dev</a>
+          <a href="../web_dev/web_dev.php">Web-dev</a>
+          <a href="../courses.php">Courses</a>
+          <a href="../about.php">About</a>
+        </div>
+
+        <div class="box">
+          <h3>contact us</h3>
+          <p><i class="fas fa-phone"></i> +254 709742000 | +254 728499650 </p>
+          <p><i class="fas fa-envelope"></i> info@kyu.ac.ke</p>
+          <p><i class="fas fa-map-marker-alt"></i> kirinyaga county , P.O box 143-10300 kerugoya Kenya.</p>
+        </div>
+
+      </div>
+
+      <div class="credit">created with <i class="fas fa-heart"></i> by martin <span></span> computer science student</div>
+    </section>
+
+  </div>
+
+
+  <!-- ----- custom js file link----- -->
+
+
+  <script src="../js/main.js"></script>
+
+</body>
+
+</html>
