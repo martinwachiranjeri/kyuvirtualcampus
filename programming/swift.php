@@ -221,7 +221,7 @@
 
       </div>
 
-      <div class="credit">created with <i class="fas fa-heart"></i> by martin <span></span> computer science student</div>
+      <div class="credit">created with <i class="fas fa-heart"></i> by Martin and Lucy <span></span> computer science student</div>
     </section>
 
 
